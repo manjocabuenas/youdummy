@@ -1,4 +1,4 @@
-{"data":{
+{"data":[{
   "eventName": "lorem",
   "department": "lorem",
   "seq_no": "123",
@@ -63,4 +63,69 @@
 		"quantity": 999
 	}
   ]
-}}
+},{
+  "eventName": "lorem",
+  "department": "lorem",
+  "seq_no": "456",
+  "date_work": null,
+  "emp_id": "765",
+  "darName": "DAR2",
+  "work": "W2",
+  "occ_code": "OCC2",
+  "occ_desc": "lorem",
+  "dp": "dp",
+  "last_update": null,
+  "time": [
+  	{
+	    "job": "lorem",
+	    "location_desc": "lorem",
+	    "work_performed": "lorem",
+	    "reg_hrs": 12,
+	    "ot_hrs": 2,
+	    "hol": null
+	},{
+	    "job": "lorem",
+	    "location_desc": "lorem",
+	    "work_performed": "lorem",
+	    "reg_hrs": 13,
+	    "ot_hrs": 3,
+	    "hol": null
+	}
+  ],
+  "equipment":[
+	{
+		"job":"lorem",
+		"cost_code": "123",
+		"desc": "lorem",
+		"mh":3,
+		"rate": "rate",
+		"units":2,
+		"ol":"ol"
+	},{
+		"job":"lorem",
+		"cost_code": "123",
+		"desc": "lorem",
+		"mh":3,
+		"rate": "rate",
+		"units":2,
+		"ol":"ol"
+	}
+  ],
+  "material":[
+	{
+		"job":"lorem",
+		"desc":"lorem",
+		"vSource": "lorem",
+		"unit": 42,
+		"rate": "rate",
+		"quantity": 999
+	},{
+		"job":"lorem",
+		"desc":"lorem",
+		"vSource": "lorem",
+		"unit": 42,
+		"rate": "rate",
+		"quantity": 999
+	}
+  ]
+}]}
