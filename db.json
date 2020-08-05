@@ -1,14 +1,66 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "eventName": "Event 1",
+  "department": "Department 1",
+  "seq_no": "12345",
+  "date_work": null,
+  "emp_id": "09876",
+  "darName": "DAR 123",
+  "work": "Work 1",
+  "occ_code": "OCC 123",
+  "occ_desc": "OCC sample description",
+  "dp": "dp",
+  "last_update": null,
+  "time": [
+  	{
+	    "job": "sample time job 1",
+	    "location_desc": "sample time location 1",
+	    "work_performed": "sample time work performed 1",
+	    "reg_hrs": 12,
+	    "ot_hrs": 2,
+	    "hol": null
+	},{
+	    "job": "sample time job 2",
+	    "location_desc": "sample time location 2",
+	    "work_performed": "sample time work performed 2",
+	    "reg_hrs": 13,
+	    "ot_hrs": 3,
+	    "hol": null
+	}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "equipment":[
+	{
+		"job":"sample equipment job 1",
+		"cost_code": "123",
+		"desc": "lorem ipsum",
+		"mh":3,
+		"rate": "rate",
+		"units":2,
+		"ol":"ol"
+	},{
+		"job":"sample equipment job 2",
+		"cost_code": "123",
+		"desc": "lorem ipsum",
+		"mh":3,
+		"rate": "rate",
+		"units":2,
+		"ol":"ol"
+	}
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "material":[
+	{
+		"job":"sample material job 1",
+		"desc":"sample material description 1",
+		"vSource": "source",
+		"unit": 42,
+		"rate": "rate",
+		"quantity": 999
+	},{
+		"job":"sample material job 2",
+		"desc":"sample material description 2",
+		"vSource": "source",
+		"unit": 42,
+		"rate": "rate",
+		"quantity": 999
+	}
+  ]
 }
