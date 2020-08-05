@@ -1,4 +1,4 @@
-{
+{"data":{
   "eventName": "lorem",
   "department": "lorem",
   "seq_no": "123",
@@ -63,4 +63,4 @@
 		"quantity": 999
 	}
   ]
-}
+}}
