@@ -12,7 +12,6 @@
   "occ_code": "OCC1",
   "occ_desc": "lorem",
   "dp": "dp",
-  "last_update": null,
   "time": [
   	{
 	    "job": "lorem",
@@ -80,7 +79,6 @@
   "occ_code": "OCC2",
   "occ_desc": "lorem",
   "dp": "dp",
-  "last_update": null,
   "time": [
   	{
 	    "job": "lorem",
