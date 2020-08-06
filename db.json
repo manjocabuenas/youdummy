@@ -1,7 +1,7 @@
 {"data":[{
   "dar_id": "000",
   "created_by": "Admin",
-  "eventName": "1",
+  "eventName": "Event 1",
   "department": "Department 1",
   "seq_no": "123",
   "date_work": null,
@@ -68,7 +68,7 @@
 },{
   "dar_id": "001",
   "created_by": "Admin",
-  "eventName": "2",
+  "eventName": "Event 2",
   "department": "Department 2",
   "seq_no": "456",
   "date_work": null,
