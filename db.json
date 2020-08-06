@@ -35,17 +35,17 @@
 		"cost_code": "123",
 		"desc": "lorem",
 		"mh":3,
-		"rate": "rate",
+		"rate": "Rate 1",
 		"units":2,
-		"ol":"ol"
+		"ol":"OL 1"
 	},{
 		"job":"lorem",
 		"cost_code": "123",
 		"desc": "lorem",
 		"mh":3,
-		"rate": "rate",
+		"rate": "Rate 2",
 		"units":2,
-		"ol":"ol"
+		"ol":"OL 2"
 	}
   ],
   "material":[
@@ -82,14 +82,14 @@
   "time": [
   	{
 	    "job": "lorem",
-	    "location_desc": "lorem",
+	    "loc_description": "lorem",
 	    "work_performed": "lorem",
 	    "reg_hrs": 12,
 	    "ot_hrs": 2,
 	    "hol": null
 	},{
 	    "job": "lorem",
-	    "location_desc": "lorem",
+	    "loc_description": "lorem",
 	    "work_performed": "lorem",
 	    "reg_hrs": 13,
 	    "ot_hrs": 3,
