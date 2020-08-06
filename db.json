@@ -19,14 +19,14 @@
 	    "work_performed": "lorem",
 	    "reg_hrs": 12,
 	    "ot_hrs": 2,
-	    "hol": "HOL 1"
+	    "hol": "Hol 1"
 	},{
 	    "job": "lorem",
 	    "location_desc": "lorem",
 	    "work_performed": "lorem",
 	    "reg_hrs": 13,
 	    "ot_hrs": 3,
-	    "hol": "HOL 2"
+	    "hol": "Hol 2"
 	}
   ],
   "equipment":[
