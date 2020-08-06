@@ -19,21 +19,21 @@
 	    "work_performed": "lorem",
 	    "reg_hrs": 12,
 	    "ot_hrs": 2,
-	    "hol": null
+	    "hol": "HOL 1"
 	},{
 	    "job": "lorem",
 	    "location_desc": "lorem",
 	    "work_performed": "lorem",
 	    "reg_hrs": 13,
 	    "ot_hrs": 3,
-	    "hol": null
+	    "hol": "HOL 2"
 	}
   ],
   "equipment":[
 	{
 		"job":"lorem",
 		"cost_code": "123",
-		"desc": "lorem",
+		"eq_description": "lorem",
 		"mh":3,
 		"rate": "Rate 1",
 		"units":2,
@@ -41,7 +41,7 @@
 	},{
 		"job":"lorem",
 		"cost_code": "123",
-		"desc": "lorem",
+		"eq_description": "lorem",
 		"mh":3,
 		"rate": "Rate 2",
 		"units":2,
@@ -51,17 +51,17 @@
   "material":[
 	{
 		"job":"lorem",
-		"desc":"lorem",
-		"vSource": "lorem",
+		"mat_description":"lorem",
+		"mat_vendor": "lorem",
 		"unit": 42,
-		"rate": "rate",
+		"rate": "Rate 1",
 		"quantity": 999
 	},{
 		"job":"lorem",
-		"desc":"lorem",
-		"vSource": "lorem",
+		"mat_description":"lorem",
+		"mat_vendor": "lorem",
 		"unit": 42,
-		"rate": "rate",
+		"rate": "Rate 2",
 		"quantity": 999
 	}
   ]
@@ -82,53 +82,53 @@
   "time": [
   	{
 	    "job": "lorem",
-	    "loc_description": "lorem",
+	    "location_desc": "lorem",
 	    "work_performed": "lorem",
 	    "reg_hrs": 12,
 	    "ot_hrs": 2,
-	    "hol": null
+	    "hol": "HOL 1"
 	},{
 	    "job": "lorem",
-	    "loc_description": "lorem",
+	    "location_desc": "lorem",
 	    "work_performed": "lorem",
 	    "reg_hrs": 13,
 	    "ot_hrs": 3,
-	    "hol": null
+	    "hol": "HOL 2"
 	}
   ],
   "equipment":[
 	{
 		"job":"lorem",
 		"cost_code": "123",
-		"desc": "lorem",
+		"eq_description": "lorem",
 		"mh":3,
-		"rate": "rate",
+		"rate": "Rate 1",
 		"units":2,
-		"ol":"ol"
+		"ol":"OL 1"
 	},{
 		"job":"lorem",
 		"cost_code": "123",
-		"desc": "lorem",
+		"eq_description": "lorem",
 		"mh":3,
-		"rate": "rate",
+		"rate": "Rate 2",
 		"units":2,
-		"ol":"ol"
+		"ol":"OL 2"
 	}
   ],
   "material":[
 	{
 		"job":"lorem",
-		"desc":"lorem",
-		"vSource": "lorem",
+		"mat_description":"lorem",
+		"mat_vendor": "lorem",
 		"unit": 42,
-		"rate": "rate",
+		"rate": "Rate 1",
 		"quantity": 999
 	},{
 		"job":"lorem",
-		"desc":"lorem",
-		"vSource": "lorem",
+		"mat_description":"lorem",
+		"mat_vendor": "lorem",
 		"unit": 42,
-		"rate": "rate",
+		"rate": "Rate 2",
 		"quantity": 999
 	}
   ]
